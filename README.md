@@ -1,2 +1,2 @@
 # Snake
-Jogo da cobrinha
+Jogo da cobrinha, Feito em HTML5, Css e JavaScript
